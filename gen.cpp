@@ -7,8 +7,8 @@
     125 characters
 
 Usage:
-g++ gen.cpp -o passgen
-passgen [KEY] [SITE]
+g++ gen.cpp -o pgen
+gen [KEY] [SITE]
 */
 
 #include<iostream>
