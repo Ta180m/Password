@@ -7,7 +7,7 @@
     125 characters
 
 Usage:
-g++ gen.cpp -o pgen
+g++ gen.cpp -o gen
 gen [KEY] [SITE]
 */
 
