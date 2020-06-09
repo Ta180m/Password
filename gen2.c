@@ -7,8 +7,8 @@
     126 characters
 
 Usage:
-gcc gen.c -o gen
-gen [KEY] [SITE]
+gcc gen2.c -o gen2
+gen2 [KEY] [SITE]
 */
 
 int i;f(int x){putchar(((29-2*x)*x-91)*x/2
