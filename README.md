@@ -1,4 +1,4 @@
-# Password-Generator
+# Password
 Minimalist password generation scripts
 
 ## Requirements
